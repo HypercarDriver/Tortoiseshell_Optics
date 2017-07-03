@@ -102,7 +102,7 @@ section > .info {
 
 /* Header  */
 header {
-  background-image: url('file:///home/phk777/Tortoiseshell_Optics/images/glasses-bg.png');
+  background-image: url('./images/glasses-bg.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;

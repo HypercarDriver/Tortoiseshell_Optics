@@ -102,7 +102,7 @@ section > .info {
 
 /* Header  */
 header {
-  background-image: url('./images/glasses-bg.png');
+  background-image: url('https://cdn.rawgit.com/awk888/Tortoiseshell_Optics/93c4fe1f/images/glasses-bg.png');
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
